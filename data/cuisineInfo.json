@@ -1,0 +1,400 @@
+[
+    {
+        "_id": "6450888641875dd8e1268cf7",
+        "name": "Kabuli pulaw",
+        "chefsId": 4,
+        "ingredients": [
+            "Steamed rice mixed with raisins",
+            "carrots",
+            "lamb or beef",
+            "chilli",
+            "onion"
+        ],
+        "cookingMethod": " 1. boil beef in water adding all ground spices and salt till tender.it wil take half an hour in cooker. 2. take oil in pan add onion and fry it til got brown.now add tomatoes in it. 3. add beed and fry it for 5 to 10 minutes 4. now add stew (yakhni) which should be double of the rice 5. add salt,all ground spices, raisin 6. when some water is left add all the nuts in it and then cover it for dam for 20 minutes. 7. cut carrots into thin slices boil it for 5 minutes thn drain water 8. add 1 tbp oil in pan thn add boied carrots in it and sugar sot it for a while then remove from stove. 9. put rice into serving dish put these carrots on it and also fine choped nuts for garnishing.",
+        "rating": 3
+    },
+    {
+        "_id": "64508886c15ef166966122be",
+        "name": "Kebab",
+        "chefsId": 1,
+        "ingredients": [
+            "cillum",
+            "laboris",
+            "aliqua",
+            "minim",
+            "non",
+            "enim",
+            "proident"
+        ],
+        "cookingMethod": "Deserunt laboris enim sint tempor esse minim duis adipisicing deserunt. Consectetur mollit qui Lorem laboris elit aute cupidatat enim. Aute eiusmod magna proident laborum ipsum mollit quis occaecat dolore adipisicing sint do eiusmod sunt. Eu laborum anim sunt esse. Amet non do incididunt ea aliquip. Nostrud tempor cupidatat voluptate ea dolore dolore ut amet reprehenderit mollit. Consequat consectetur excepteur qui irure elit Lorem eu irure proident mollit qui aute culpa nisi.\r\n",
+        "rating": 5
+    },
+    {
+        "_id": "64508886f77d0aedc677b5d1",
+        "name": "Hill Crawford",
+        "chefsId": 2,
+        "ingredients": [
+            "eiusmod",
+            "nulla",
+            "cupidatat",
+            "deserunt",
+            "velit",
+            "Lorem",
+            "eiusmod"
+        ],
+        "cookingMethod": "Dolor deserunt ipsum pariatur ea eiusmod officia incididunt minim nulla irure reprehenderit fugiat. Lorem culpa do et qui consectetur. Nulla pariatur pariatur est et aliquip ad culpa ipsum.\r\n",
+        "rating": 3
+    },
+    {
+        "_id": "64508886ed5c898b204a091e",
+        "name": "Ayers Vargas",
+        "chefsId": 5,
+        "ingredients": [
+            "mollit",
+            "cillum",
+            "eu",
+            "elit",
+            "dolor",
+            "deserunt",
+            "enim"
+        ],
+        "cookingMethod": "Ex magna quis occaecat ad nostrud anim dolore exercitation irure consequat exercitation ea. Occaecat voluptate ex mollit sit. Proident veniam velit incididunt magna elit excepteur dolor nostrud duis minim proident occaecat consequat sit. Enim consectetur duis aliqua ex Lorem voluptate duis ullamco cillum. Eu adipisicing esse duis minim dolore.\r\n",
+        "rating": 4
+    },
+    {
+        "_id": "64508886dde5dac0ec787dd9",
+        "name": "Green Byrd",
+        "chefsId": 0,
+        "ingredients": [
+            "commodo",
+            "anim",
+            "id",
+            "incididunt",
+            "officia",
+            "ullamco",
+            "laborum"
+        ],
+        "cookingMethod": "Duis ea est adipisicing aliqua consectetur. Eiusmod nulla dolore irure aliqua est dolor do sit anim. Non nostrud aliquip labore excepteur. Ad duis non magna aliqua incididunt nostrud pariatur. Cillum non officia nulla esse qui tempor laborum elit nulla sunt exercitation exercitation. Ullamco cillum consequat excepteur eu anim esse labore irure id ex Lorem dolore.\r\n",
+        "rating": 3
+    },
+    {
+        "_id": "6450888654c4dee91c97d1c4",
+        "name": "Debora Gay",
+        "chefsId": 3,
+        "ingredients": [
+            "anim",
+            "id",
+            "excepteur",
+            "quis",
+            "laborum",
+            "cillum",
+            "ullamco"
+        ],
+        "cookingMethod": "Aliqua cillum veniam velit adipisicing enim dolore esse duis ipsum minim consequat. Esse pariatur aliquip sunt amet sint proident sint nisi veniam exercitation culpa. Irure ad eiusmod Lorem sit officia.\r\n",
+        "rating": 3
+    },
+    {
+        "_id": "645088860ce79750f683c0b0",
+        "name": "Ratliff Preston",
+        "chefsId": 0,
+        "ingredients": [
+            "elit",
+            "quis",
+            "aute",
+            "irure",
+            "velit",
+            "non",
+            "laborum"
+        ],
+        "cookingMethod": "Mollit cupidatat officia ea dolore proident cupidatat ullamco et. Ullamco incididunt reprehenderit occaecat culpa qui minim sunt. Esse sint anim amet commodo et do duis non. Est Lorem duis ad Lorem esse.\r\n",
+        "rating": 5
+    },
+    {
+        "_id": "64508886e86f91be4845dbef",
+        "name": "Simpson Coleman",
+        "chefsId": 2,
+        "ingredients": [
+            "consequat",
+            "veniam",
+            "cupidatat",
+            "mollit",
+            "culpa",
+            "quis",
+            "tempor"
+        ],
+        "cookingMethod": "Sit elit quis reprehenderit commodo est. Sit quis amet mollit cillum aliqua. Occaecat voluptate magna pariatur aliquip officia nulla adipisicing occaecat ad culpa. Veniam fugiat velit ut cillum ex tempor. Laborum dolore consectetur est eiusmod eiusmod cillum quis elit enim ex sit ipsum. Ex commodo occaecat adipisicing sunt dolor amet Lorem est veniam.\r\n",
+        "rating": 3
+    },
+    {
+        "_id": "64508886e49796d531b67df5",
+        "name": "Mable Giles",
+        "chefsId": 3,
+        "ingredients": [
+            "veniam",
+            "cupidatat",
+            "reprehenderit",
+            "duis",
+            "laboris",
+            "consequat",
+            "amet"
+        ],
+        "cookingMethod": "Lorem dolor irure exercitation incididunt magna fugiat proident ad officia veniam. Ex incididunt esse eu nostrud proident aliquip amet aute proident quis. Veniam ex nostrud elit aliqua consequat commodo aliquip do ut consequat. Nulla dolore id proident pariatur. Lorem fugiat sit aliquip sit Lorem magna tempor deserunt velit esse sit velit.\r\n",
+        "rating": 4
+    },
+    {
+        "_id": "645088861de98a715e940f4a",
+        "name": "Cortez Dudley",
+        "chefsId": 5,
+        "ingredients": [
+            "est",
+            "quis",
+            "commodo",
+            "labore",
+            "id",
+            "consequat",
+            "quis"
+        ],
+        "cookingMethod": "Dolor sunt eiusmod ipsum magna. Sunt ipsum id ea et adipisicing ipsum est. Magna anim sint excepteur laboris laborum irure magna et occaecat labore ex sint elit. Deserunt ullamco amet Lorem enim sit sunt veniam veniam. Labore Lorem nisi duis reprehenderit commodo deserunt cupidatat. Cupidatat tempor consequat fugiat sint fugiat voluptate elit exercitation ea excepteur exercitation ipsum proident ad. Anim aute nulla amet cillum et eu officia magna.\r\n",
+        "rating": 5
+    },
+    {
+        "_id": "64508886aa0e7ad536ab44d3",
+        "name": "Hendrix Bray",
+        "chefsId": 4,
+        "ingredients": [
+            "laborum",
+            "anim",
+            "quis",
+            "duis",
+            "non",
+            "proident",
+            "proident"
+        ],
+        "cookingMethod": "Nostrud cupidatat ad sint qui occaecat occaecat in cupidatat. Proident sunt ipsum fugiat dolor sint occaecat. Officia incididunt culpa exercitation elit do. Ipsum ex anim cillum exercitation excepteur nostrud minim irure. Labore fugiat sint sunt dolore. Ea magna exercitation Lorem proident mollit Lorem tempor pariatur ut magna aliqua et.\r\n",
+        "rating": 5
+    },
+    {
+        "_id": "645088866fb39c68f7b05614",
+        "name": "Kim Wilcox",
+        "chefsId": 4,
+        "ingredients": [
+            "fugiat",
+            "dolor",
+            "veniam",
+            "quis",
+            "sunt",
+            "et",
+            "fugiat"
+        ],
+        "cookingMethod": "Ut incididunt pariatur qui est commodo. Nulla consectetur magna velit excepteur ullamco tempor labore velit pariatur laboris. Sint cillum id nulla incididunt cupidatat dolore commodo irure proident esse culpa reprehenderit adipisicing. Cupidatat minim quis laborum culpa in excepteur tempor ex. Consequat excepteur in sit esse est ad enim cillum. Irure minim occaecat aliquip aute consectetur quis aute mollit in id minim.\r\n",
+        "rating": 3
+    },
+    {
+        "_id": "64508886c7dbde86eb32b046",
+        "name": "Vazquez Mullins",
+        "chefsId": 4,
+        "ingredients": [
+            "voluptate",
+            "irure",
+            "dolor",
+            "cupidatat",
+            "aliqua",
+            "nisi",
+            "et"
+        ],
+        "cookingMethod": "Nisi dolore quis adipisicing nulla laboris duis dolor occaecat id proident ad occaecat ullamco commodo. Ipsum excepteur dolor eiusmod voluptate sint laboris occaecat non labore non labore labore. Eu laboris excepteur culpa commodo proident enim magna.\r\n",
+        "rating": 5
+    },
+    {
+        "_id": "64508886661b389f0286b442",
+        "name": "Bobbi Stanton",
+        "chefsId": 0,
+        "ingredients": [
+            "proident",
+            "laboris",
+            "esse",
+            "enim",
+            "magna",
+            "qui",
+            "et"
+        ],
+        "cookingMethod": "Ullamco tempor proident deserunt excepteur cupidatat cillum qui reprehenderit reprehenderit irure. Quis anim sit dolor Lorem aliqua non. Fugiat enim aliqua do voluptate ea et dolore esse. Qui in exercitation nulla et aliqua excepteur fugiat tempor et cillum reprehenderit dolor officia.\r\n",
+        "rating": 4
+    },
+    {
+        "_id": "6450888608cd935a35391645",
+        "name": "Morton Dunlap",
+        "chefsId": 5,
+        "ingredients": [
+            "labore",
+            "deserunt",
+            "laboris",
+            "proident",
+            "irure",
+            "cupidatat",
+            "pariatur"
+        ],
+        "cookingMethod": "Proident deserunt magna reprehenderit reprehenderit cupidatat deserunt veniam et velit. Ullamco eiusmod quis do reprehenderit in deserunt reprehenderit excepteur ad voluptate. Fugiat mollit duis amet ea pariatur incididunt. Ea dolor et exercitation laboris dolor id. Ad ipsum dolor officia mollit excepteur ex incididunt.\r\n",
+        "rating": 4
+    },
+    {
+        "_id": "645088860d96f9429fe49cb5",
+        "name": "Kate Fields",
+        "chefsId": 1,
+        "ingredients": [
+            "nostrud",
+            "pariatur",
+            "voluptate",
+            "ad",
+            "cupidatat",
+            "irure",
+            "deserunt"
+        ],
+        "cookingMethod": "Labore laboris mollit labore tempor culpa commodo ex nisi esse ex ea. Aute magna laboris magna pariatur officia aliqua nulla incididunt irure laborum non. Tempor fugiat et non ut laborum laboris velit qui ex. Nulla mollit officia ea sint officia deserunt ipsum consequat quis. Do ut qui ullamco occaecat proident ad mollit cillum adipisicing irure velit ullamco in.\r\n",
+        "rating": 5
+    },
+    {
+        "_id": "64508886c891d19c406c7548",
+        "name": "Trisha Cameron",
+        "chefsId": 5,
+        "ingredients": [
+            "ea",
+            "nisi",
+            "culpa",
+            "Lorem",
+            "ut",
+            "esse",
+            "sit"
+        ],
+        "cookingMethod": "Ex eu aliquip aliqua voluptate irure eiusmod. Officia exercitation eu culpa ut amet sint ullamco. Esse laboris esse fugiat tempor voluptate adipisicing enim sunt commodo velit do deserunt mollit. Cillum minim sit magna esse dolore ut nostrud anim deserunt fugiat exercitation nulla.\r\n",
+        "rating": 4
+    },
+    {
+        "_id": "645088862b3ad683cdb36f8d",
+        "name": "Russo Hawkins",
+        "chefsId": 0,
+        "ingredients": [
+            "fugiat",
+            "deserunt",
+            "voluptate",
+            "exercitation",
+            "ullamco",
+            "amet",
+            "qui"
+        ],
+        "cookingMethod": "Consequat exercitation elit ullamco nisi ex veniam ex anim. Amet do irure nulla aute eiusmod. Dolore mollit proident sit consectetur esse est laborum consequat.\r\n",
+        "rating": 4
+    },
+    {
+        "_id": "64508886d4596189ee862b62",
+        "name": "Bean Durham",
+        "chefsId": 4,
+        "ingredients": [
+            "non",
+            "nostrud",
+            "commodo",
+            "deserunt",
+            "deserunt",
+            "occaecat",
+            "aliquip"
+        ],
+        "cookingMethod": "Velit esse quis ipsum cupidatat non eu Lorem sit aliqua voluptate commodo. Fugiat laboris dolore deserunt culpa occaecat. Sit officia nostrud excepteur nisi culpa. Laboris fugiat eiusmod est reprehenderit laborum elit adipisicing ex nisi nostrud. Pariatur enim nisi adipisicing do nostrud fugiat eiusmod exercitation minim enim id et velit anim. Voluptate irure adipisicing sit aliqua dolor minim minim in est adipisicing quis est ex elit.\r\n",
+        "rating": 5
+    },
+    {
+        "_id": "645088868b9ac89938ce3214",
+        "name": "Farley Mcknight",
+        "chefsId": 0,
+        "ingredients": [
+            "non",
+            "quis",
+            "laborum",
+            "qui",
+            "elit",
+            "amet",
+            "incididunt"
+        ],
+        "cookingMethod": "Aliqua ullamco culpa sint adipisicing quis reprehenderit officia amet. Nisi cillum excepteur incididunt esse qui dolor exercitation laboris cupidatat. Fugiat quis est dolor do velit reprehenderit duis incididunt fugiat commodo.\r\n",
+        "rating": 5
+    },
+    {
+        "_id": "645088864e06e73721c13138",
+        "name": "Cassandra Rivas",
+        "chefsId": 2,
+        "ingredients": [
+            "ad",
+            "ex",
+            "id",
+            "quis",
+            "consectetur",
+            "magna",
+            "anim"
+        ],
+        "cookingMethod": "Anim velit ea nisi culpa aliqua esse id et. Non ea irure ex deserunt in anim aliqua tempor. Consectetur nisi sunt non est fugiat. Elit nulla duis elit exercitation. Lorem laboris proident adipisicing aliquip ad. Do nostrud magna deserunt laborum consequat irure est tempor. Amet consequat in id et aute quis aliqua nisi excepteur aliqua velit sint voluptate.\r\n",
+        "rating": 3
+    },
+    {
+        "_id": "64508886de731dd2050ec881",
+        "name": "Browning Barlow",
+        "chefsId": 4,
+        "ingredients": [
+            "dolor",
+            "quis",
+            "proident",
+            "nulla",
+            "Lorem",
+            "tempor",
+            "nostrud"
+        ],
+        "cookingMethod": "Esse laborum aute aliquip est ipsum. Excepteur minim Lorem eu duis et reprehenderit aute ut ullamco voluptate excepteur et. Duis nisi amet proident dolore laborum ipsum ad dolore.\r\n",
+        "rating": 4
+    },
+    {
+        "_id": "64508886e0293f25d8bea1bc",
+        "name": "George Olson",
+        "chefsId": 5,
+        "ingredients": [
+            "amet",
+            "sit",
+            "laboris",
+            "dolor",
+            "non",
+            "sint",
+            "excepteur"
+        ],
+        "cookingMethod": "Adipisicing nisi laboris ad nisi incididunt aliquip cupidatat tempor do dolor. Adipisicing id cillum minim ut sunt velit commodo est tempor qui nulla cillum quis dolore. Amet dolore sint labore nulla aute. Excepteur sunt do esse commodo minim veniam duis reprehenderit cillum ipsum nostrud amet officia. Et non Lorem in ipsum eu pariatur ipsum. Ipsum laborum labore aliqua eiusmod tempor dolor tempor minim. Pariatur commodo eu veniam est nisi dolore laborum ea qui laborum aliqua.\r\n",
+        "rating": 5
+    },
+    {
+        "_id": "64508886f29daeee0cb061d6",
+        "name": "Ramos Holcomb",
+        "chefsId": 5,
+        "ingredients": [
+            "proident",
+            "nisi",
+            "enim",
+            "enim",
+            "aute",
+            "cupidatat",
+            "culpa"
+        ],
+        "cookingMethod": "Labore proident id ut cillum occaecat. Aliquip ullamco quis veniam deserunt. Id duis ut irure proident incididunt id ullamco sit aute amet. Irure aute proident consectetur duis excepteur duis. Aliqua occaecat consequat magna amet sint veniam nostrud eiusmod occaecat enim non aliqua. Amet eiusmod nostrud enim duis dolor esse sint tempor adipisicing deserunt.\r\n",
+        "rating": 4
+    },
+    {
+        "_id": "64508886023a34fa623d1da7",
+        "name": "Erna Wade",
+        "chefsId": 1,
+        "ingredients": [
+            "aliqua",
+            "aliqua",
+            "duis",
+            "fugiat",
+            "aute",
+            "id",
+            "fugiat"
+        ],
+        "cookingMethod": "Elit deserunt adipisicing culpa fugiat esse consequat in ad officia sit. Aute elit et nostrud ea consectetur excepteur esse tempor veniam reprehenderit ut minim consectetur voluptate. Culpa labore consectetur minim fugiat aliquip laboris reprehenderit est sunt elit non occaecat laboris. Anim officia dolor nulla ad irure dolore nostrud laborum ad cillum aliqua sit non officia. Et non dolor culpa esse duis consectetur nostrud mollit excepteur dolore sint velit laborum. Ex magna veniam culpa veniam non consectetur.\r\n",
+        "rating": 4
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id": 0,
+        "picture": "https://i.ibb.co/XDm7GYS/Najibullah.png",
+        "name": "Najibullah Khurram",
+        "yearsOfExperience": 8,
+        "numberOfRecipes": 5,
+        "likes": 5
+    },
+    {
+        "id": 1,
+        "picture": "https://i.ibb.co/BNTFHJ8/Danie.png",
+        "name": "Danie Prinsloo",
+        "yearsOfExperience": 12,
+        "numberOfRecipes": 5,
+        "likes": 3
+    },
+    {
+        "id": 2,
+        "picture": "https://i.ibb.co/kcmdwCY/Vladimir.png",
+        "name": "Vladimir Spirkoski",
+        "yearsOfExperience": 13,
+        "numberOfRecipes": 3,
+        "likes": 4
+    },
+    {
+        "id": 3,
+        "picture": "https://i.ibb.co/5hyHkms/Antonio.png",
+        "name": "Antonio Alexander",
+        "yearsOfExperience": 14,
+        "numberOfRecipes": 3,
+        "likes": 5
+    },
+    {
+        "id": 4,
+        "picture": "https://i.ibb.co/PzZs3X8/Ayub.png",
+        "name": "Ayub Alam",
+        "yearsOfExperience": 8,
+        "numberOfRecipes": 5,
+        "likes": 3
+    },
+    {
+        "id": 5,
+        "picture": "https://i.ibb.co/ccKSwzh/Rana.png",
+        "name": "Rana Hamza",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 3,
+        "likes": 4
+    }
+]
