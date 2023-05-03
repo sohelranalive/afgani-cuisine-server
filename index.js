@@ -13,6 +13,12 @@ app.get('/', (req, res) => {
     res.send(chefsInfo)
 })
 
+app.get('/details/:id', (req, res) => {
+    const id = req.params.id;
+    const chefDetails = chefsInfo.find(chef => chef.id == id)
+    res.send(chefDetails)
+})
+
 app.get('/cuisine', (req, res) => {
     res.send(cuisineInfo)
 })
