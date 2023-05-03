@@ -1,50 +1,56 @@
 [
     {
-        "id": 0,
+        "id": 1201,
         "picture": "https://i.ibb.co/XDm7GYS/Najibullah.png",
         "name": "Najibullah Khurram",
         "yearsOfExperience": 8,
-        "numberOfRecipes": 5,
+        "numberOfRecipes": 4,
+        "shortBio": "As an experienced chef with a passion for using fresh, high-quality ingredients, Najibullah Khurram creates visually appealing dishes that showcase his culinary skills. With a solid understanding of menu creation, food preparation, and kitchen management, he stays up to date with the latest culinary trends and techniques to deliver memorable dining experiences for his guests.",
         "likes": 5
     },
     {
-        "id": 1,
+        "id": 1202,
         "picture": "https://i.ibb.co/BNTFHJ8/Danie.png",
         "name": "Danie Prinsloo",
         "yearsOfExperience": 12,
-        "numberOfRecipes": 5,
+        "numberOfRecipes": 4,
+        "shortBio": "With 9 years of experience, Danie Prinsloo is a creative and versatile chef who specializes in Afgani cuisine. He is known for his ability to blend traditional flavors and ingredients with modern techniques, and is passionate about using locally sourced ingredients. His dishes are always beautifully presented and bursting with flavor.",
         "likes": 3
     },
     {
-        "id": 2,
+        "id": 1203,
         "picture": "https://i.ibb.co/kcmdwCY/Vladimir.png",
         "name": "Vladimir Spirkoski",
         "yearsOfExperience": 13,
-        "numberOfRecipes": 3,
+        "numberOfRecipes": 4,
+        "shortBio": "Vladimir Spirkoski is a classically trained chef with 13 years of experience in Afgani cuisine. He has a reputation for creating elegant and sophisticated dishes that showcase his precision and technique. He is particularly skilled at creating sauces and using fresh herbs to bring out the flavors of his dishes.",
         "likes": 4
     },
     {
-        "id": 3,
+        "id": 1204,
         "picture": "https://i.ibb.co/5hyHkms/Antonio.png",
         "name": "Antonio Alexander",
         "yearsOfExperience": 14,
-        "numberOfRecipes": 3,
+        "numberOfRecipes": 4,
+        "shortBio": "Antonio Alexander is a talented pastry chef with 14 years of experience. He creates stunning desserts with unique flavors and textures, and is passionate about experimenting with different ingredients and techniques to create new and exciting desserts. He is particularly known for his expertise in working with chocolate and sugar.",
         "likes": 5
     },
     {
-        "id": 4,
+        "id": 1205,
         "picture": "https://i.ibb.co/PzZs3X8/Ayub.png",
         "name": "Ayub Alam",
         "yearsOfExperience": 8,
         "numberOfRecipes": 5,
+        "shortBio": "Ayub Alam is a creative and versatile chef with 8 years of experience in Afgani cuisine. He has a talent for blending traditional flavors and ingredients with modern techniques, and is always looking for ways to innovate and push the boundaries of his cuisine. He is known for his expertise in creating vegetarian and vegan dishes that are both healthy and flavorful.",
         "likes": 3
     },
     {
-        "id": 5,
+        "id": 1206,
         "picture": "https://i.ibb.co/ccKSwzh/Rana.png",
         "name": "Rana Hamza",
         "yearsOfExperience": 10,
-        "numberOfRecipes": 3,
+        "numberOfRecipes": 4,
+        "shortBio": "ith 10 years of experience, Rana Hamza is a skilled chef who specializes in Middle Eastern cuisine. She has a deep understanding of the spices and flavors that make this cuisine unique, and is particularly known for her expertise in grilling and smoking. Her dishes are always bursting with flavor and are beautifully presented.",
         "likes": 4
     }
 ]
