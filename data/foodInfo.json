@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "name": "Kabuli Pulao",
+        "description": "Afghanistan's national dish made with rice, lamb, raisins, and carrots seasoned with various spices.",
+        "imageUrl": "https://i.ibb.co/L095Zns/Kabuli-Pulao.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Mantu",
+        "description": "Afghan dumplings filled with spiced ground beef or lamb and onion, steamed and topped with tomato-based sauce and yogurt.",
+        "imageUrl": "https://i.ibb.co/c886JvH/Kebab.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Ashak",
+        "description": "Afghan dumplings filled with leeks, scallions, and herbs, boiled and topped with a spicy tomato-based sauce and yogurt.",
+        "imageUrl": "https://i.ibb.co/tKp7WZL/Ashak.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Kebab",
+        "description": "Chunks of marinated lamb, chicken, or beef grilled over an open flame, served with rice, naan bread, and a variety of side dishes and sauces.",
+        "imageUrl": "https://i.ibb.co/c886JvH/Kebab.jpg"
+    }
+]
